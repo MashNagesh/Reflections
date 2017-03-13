@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was really a long process of comparing every line and finding the differences which would become tedious in a longer code
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Well if i have all the versions stored it would be easy for me to go back to the previous workable version if i have made from irretractable modifications to the current versions.Also it helps in easy reference for soem other projects than the ones that iam currently working upon
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Sometimes we might forget to commit after a logical step and it might become too big for a commit.
+    Users might forget to commit at all and there might be a power failure
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Think it is great that Git allows multiple file commits since in case the same needs to be chosen manually there is a possibility of error where in  the user misses out on changing the relevant files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log displays the commit ids of various changes along with a message indicating the change done whereas git diff can be used to get the differences between 2 commit ids with details on the changes made
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since we can go back to the older version at our discretion we can try around and come up with changes without having to worry about the loss of workability becasue of a bug that might get introduced
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try Git on a varity of my coding projects to check out the differences and try out the commands leart
