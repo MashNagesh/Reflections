@@ -5,3 +5,5 @@ What happens when you initialize a repository? Why do you need to do it?
  The staging area is an intermediate step and it helps us bundle the files that we feel are logically connected and then commit them into the repository
  How can you use the staging area to make sure you have one commit per logical change?
  	Iam sorry i donno the answer for this
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ 	In certain cases in which you feel might be a different experiment /language/different approcah to the code from the existing one the branches will look like a logical division yet connected to the main root
