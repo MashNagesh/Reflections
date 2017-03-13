@@ -7,3 +7,10 @@ What happens when you initialize a repository? Why do you need to do it?
  	Iam sorry i donno the answer for this
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
  	In certain cases in which you feel might be a different experiment /language/different approcah to the code from the existing one the branches will look like a logical division yet connected to the main root
+ How do the diagrams help you visualize the branch structure?
+ 	It gives a clarity on the flow of control/reachability and also gives an idea if we might end up losing any of the previous commits
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ 	Merging enables parallel processing and helps us take the changes ina  combines manner from the last commit
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  I think manual merge is appropriate since you get to review the items before proceeding with the merge.Here you are completely sure instead of leaving it at the discretion of git
