@@ -11,4 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
   If you are goign offline this could be useful since you can add in your changes on top of that and then later merge back with minimal resolutions
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-	We might have to coordinate with the collaborator over phone or e-mail them frequently so that the versions remain correct.This is harder but more personal and some double work could be avoided
+	We might have to coordinate with the collaborator over phone or e-mail them frequently so that the versions remain correct.This is harder but more personal and some double work could be avoided.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  When we have multiple people working upon the same master it is appropriate to work on a separate branch and then ask for a merge request since pushing the same without intimating might cause confusion and later debugging problems
